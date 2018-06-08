@@ -25,6 +25,11 @@
 		<li><a href="./Prototype/Prototype2.jsp">Prototype 생성자방식</a></li>
 		<li><a href="./Prototype/Prototype3.jsp">Prototype 객체확장</a></li>
 		<li><a href="./Prototype/Prototype4.jsp">Prototype 객체변경</a></li>
+		<br>
+		<li><a href="./Scope/Scope.jsp">Scope function, block</a></li>
+		<li><a href="./Scope/Scope2.jsp">Scope 내부함수 </a></li>
+		<li><a href="./Scope/Scope3.jsp">Prototype 객체확장</a></li>
+		<li><a href="./Scope/Scope4.jsp">Prototype 객체변경</a></li>
 	</ul>
 </body>
 </html>

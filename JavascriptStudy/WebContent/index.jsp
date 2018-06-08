@@ -18,6 +18,9 @@
 		<li><a href="./Function/Function4.jsp">function  __proto__ 프로퍼티</a></li>
 		<li><a href="./Function/Function5.jsp">function  prototype 프로퍼티</a></li>
 		<li><a href="./Function/Function6.jsp">function  즉시, 내부, 콜백</a></li>
+		<br>
+		<li><a href="./TypeChecking/Typechecking.jsp">Type Checking</a></li>
+		
 	</ul>
 </body>
 </html>

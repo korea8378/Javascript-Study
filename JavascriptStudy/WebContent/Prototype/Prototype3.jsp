@@ -16,10 +16,19 @@
 		}
 
 		var foo = new Person('Lee');
-
+		
 		Person.prototype.sayHello = function() {
 			console.log('Hi! my name is ' + this.name);
 		};
+		
+		Person.prototype.age = 20;
+		var bar = new Person('Lee2');
+		
+		console.log(foo.age);
+		console.log(bar.age);
+		bar.age=10;
+		console.log(foo.age);
+		console.log(bar.age);
 
 		foo.sayHello();
 		

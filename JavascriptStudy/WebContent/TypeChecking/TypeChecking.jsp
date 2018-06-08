@@ -70,7 +70,13 @@
 			return getType(target) === 'Date';
 		}
 
+		function isRegExp(target) {
+			return getType(target) === 'RegExp';
+		}
 
+		function isFunction(target) {
+			return getType(target) === 'Function';
+		}
 	</script>	
 <body>
 	<h2>"관리자 도구로 확인하시오"</h2><br>

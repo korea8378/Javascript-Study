@@ -22,6 +22,7 @@
 		<li><a href="./TypeChecking/Typechecking.jsp">Type Checking</a></li>
 		<br>
 		<li><a href="./Prototype/Prototype.jsp">Prototype 리터널방식</a></li>
+		<li><a href="./Prototype/Prototype2.jsp">Prototype 생성자방식</a></li>
 	</ul>
 </body>
 </html>

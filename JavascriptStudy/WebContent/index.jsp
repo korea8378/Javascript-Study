@@ -23,6 +23,8 @@
 		<br>
 		<li><a href="./Prototype/Prototype.jsp">Prototype 리터널방식</a></li>
 		<li><a href="./Prototype/Prototype2.jsp">Prototype 생성자방식</a></li>
+		<li><a href="./Prototype/Prototype3.jsp">Prototype 객체확장</a></li>
+		<li><a href="./Prototype/Prototype4.jsp">Prototype 객체변경</a></li>
 	</ul>
 </body>
 </html>

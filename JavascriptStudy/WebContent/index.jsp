@@ -20,7 +20,8 @@
 		<li><a href="./Function/Function6.jsp">function  즉시, 내부, 콜백</a></li>
 		<br>
 		<li><a href="./TypeChecking/Typechecking.jsp">Type Checking</a></li>
-		
+		<br>
+		<li><a href="./Prototype/Prototype.jsp">Prototype 리터널방식</a></li>
 	</ul>
 </body>
 </html>

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>object</title>
+<title>function</title>
 </head>
 	<script type="text/javascript">
 		//함수 선언식 

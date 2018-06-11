@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>object</title>
+<title>prototype</title>
 </head>
 	<script type="text/javascript">
 		//생성자함수.prototype에 프로퍼티를 추가 함으로써

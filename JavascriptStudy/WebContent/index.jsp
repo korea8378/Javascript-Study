@@ -45,6 +45,7 @@
 		<li><a href="./ObjectOriented/ObjectOriented2.jsp">ObjectOriented 동적 메소드 추가2</a></li>
 		<li><a href="./ObjectOriented/ObjectOriented3.jsp">ObjectOriented 상속 의사클래스패턴</a></li>
 		<li><a href="./ObjectOriented/ObjectOriented4.jsp">ObjectOriented 상속 프로토타입</a></li>
+		<li><a href="./ObjectOriented/ObjectOriented5.jsp">ObjectOriented 캡슐화 모듈화</a></li>
 	</ul>
 </body>
 </html>

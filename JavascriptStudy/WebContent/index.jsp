@@ -41,10 +41,10 @@
 		<li><a href="./Closure/Closure3.jsp">Closure Settimeout</a></li>
 		<li><a href="./Closure/Closure4.jsp">Closure 즉시실행함수</a></li>
 		<br>
-		<li><a href="./ObjectOriented/ObjectOriented.jsp">ObjectOriented </a></li>
-		<li><a href="./ObjectOriented/ObjectOriented2.jsp">ObjectOriented</a></li>
-		<li><a href="./ObjectOriented/ObjectOriented3.jsp">ObjectOriented</a></li>
-		<li><a href="./ObjectOriented/ObjectOriented4.jsp">ObjectOriented</a></li>
+		<li><a href="./ObjectOriented/ObjectOriented.jsp">ObjectOriented 동적 메소드 추가</a></li>
+		<li><a href="./ObjectOriented/ObjectOriented2.jsp">ObjectOriented 동적 메소드 추가2</a></li>
+		<li><a href="./ObjectOriented/ObjectOriented3.jsp">ObjectOriented 상속 의사클래스패턴</a></li>
+		<li><a href="./ObjectOriented/ObjectOriented4.jsp">ObjectOriented 상속 프로토타입</a></li>
 	</ul>
 </body>
 </html>

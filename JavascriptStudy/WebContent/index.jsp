@@ -61,6 +61,9 @@
 		<li><a href="./DOM/DOM6.jsp">DOM HTML조작 TEXTCONENT</a></li>
 		<li><a href="./DOM/DOM7.jsp">DOM HTML조작 INNERHTML</a></li>
 		<li><a href="./DOM/DOM6.jsp">DOM DOM조작 node를 직접 만들어 추가</a></li>
+		<br>
+		<li><a href="./SynchronousAsynchronous/Synchronous.jsp">Synchronous Synchronous</a></li>
+		<li><a href="./SynchronousAsynchronous/Asynchronous.jsp">Synchronous Asynchronous</a></li>
 	</ul>
 </body>
 </html>

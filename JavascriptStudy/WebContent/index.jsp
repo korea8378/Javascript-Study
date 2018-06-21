@@ -64,6 +64,10 @@
 		<br>
 		<li><a href="./SynchronousAsynchronous/Synchronous.jsp">Synchronous Synchronous</a></li>
 		<li><a href="./SynchronousAsynchronous/Asynchronous.jsp">Synchronous Asynchronous</a></li>
+		<br>
+		<li><a href="./Event/Event.jsp">Event Event등록</a></li>
+		<br>
+		<li><a href="./Json/Json.jsp">AJAX JSON</a></li>
 	</ul>
 </body>
 </html>
